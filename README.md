@@ -1,4 +1,4 @@
-# Power BI Projects
+<!-- # Power BI Projects
 
 Welcome to my Power BI Projects repository! Here, you'll find a collection of Power BI dashboards and reports that I've created to analyze and visualize data for various purposes. Whether you're a data enthusiast, business analyst, or just curious about data visualization, you'll find something interesting here.
 
@@ -95,7 +95,7 @@ Please review our [Contribution Guidelines](CONTRIBUTING.md) before getting star
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
+-->
 Thank you for visiting my Power BI Projects repository. I hope you find these dashboards and reports valuable for your data analysis needs. If you have any questions or feedback, please don't hesitate to reach out.
 
 Happy data exploring! 📊🚀
